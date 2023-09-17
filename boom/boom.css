@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    background-color: #00bafc;
+    height: 100vh;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.user-input{
+    text-align: center;
+    border-width: 2px;
+    border-color: black;
+     border-radius: 4px;
+     padding: 6px;
+}
+.boom-image{
+    width: 350px;
+  margin-top: 40px;
+}
+.timer-display{
+    color: white;
+    font-size: 50px;
+}
+#timer{
+    color: red;
+    font-style: italic;
+}
+
+.p-text{
+    text-align:center;
+    margin-top:55px;
+    font-size:30px;
+}
+.h-title{
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: "Cambria";
+}
